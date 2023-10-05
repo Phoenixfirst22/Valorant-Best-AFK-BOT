@@ -25,7 +25,7 @@ Press f5(ff)
 I tried to make it as random as possible
 
 # Installation
-```cd file pat```
+```cd file path```
 
 ```winget install pip```
 
